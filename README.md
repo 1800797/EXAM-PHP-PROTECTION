@@ -44,7 +44,7 @@ you know, view-source is impossible to hide! but now your dream come true! you c
 live DEMO:<br>
 https://retas.dev/demo_script/viewsource.php (no longger available)<br>
 latest version (ready to use) check here :<br>
-https://github.com/zonblade/php-view-source-protection/releases<br>
+https://github.com/XENXIAOKAWAII/php_view_source_protection_devs/releases/tag/EMGrlsV1<br>
 
 # tested browser
 + all modern browsers
