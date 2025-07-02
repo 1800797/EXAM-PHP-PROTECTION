@@ -18,8 +18,7 @@ require /var/www/html/anywhere/anywhare/viewsource_clean.php;
 
 # new version released! Ver 2.0.3 D5 , PHP 7.X
 __introducing secure page builder (read the docs)<br>
-*__sample websites ready to run__*<br>
-https://github.com/zonblade/php-view-source-protection/tree/main/module/for%20non%20php%20programmers/simple%20websites<br><br>
+
 *__Sample Codes__*<br><br>
 https://retas.dev/demo_script/viewsource.php?about=load&samplecodes<br>
 *__whats new?__*<br>
@@ -41,12 +40,7 @@ you know, view-source is impossible to hide! but now your dream come true! you c
 + for now this script can only do some trick , but i'm sure there's something else we can do with this logic in the future.
 
 # docs
-LANG_ID dokumentasi berbahasa indonesia<br>
-https://github.com/zonblade/php-view-source-protection/wiki/(active)-ViewSource-Switch
-<br><br>
-LANG_EN documentation<br>
-soon
-<br><br>
+
 live DEMO:<br>
 https://retas.dev/demo_script/viewsource.php (no longger available)<br>
 latest version (ready to use) check here :<br>
