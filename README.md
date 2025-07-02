@@ -61,7 +61,7 @@ under MIT license
 
 ## Created by 
 obviously its me lol,<br>
-instagram.com/zonblade
+instagram.com/darr.eel_
 
 ## changelog
 + parameter management (multi parameter);
