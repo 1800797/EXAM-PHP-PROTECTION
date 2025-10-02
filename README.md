@@ -4,12 +4,12 @@ SLOW PHASE BUT STABLE
 NOT FOR HUGE PROJECT, ONLY FOR PERSONAL WEBSITE!
 
 # QUICK HOW TO USE
-├&nbsp;index.php (can be anything too)<br>
+├&nbsp;index.php <br>
 &nbsp;&nbsp;&nbsp;└ require "<your_OWN_directory>/viewsource_clean.php";<br>
   (ANYWHERE FOLDER)<br>
 ```
 <?php
-require /var/www/html/anywhere/anywhare/viewsource_clean.php;
+require /var/www/html/anywhere/anywhere/viewsource_clean.php;
 /*codes here*/
 ```
 <br>
@@ -20,11 +20,11 @@ __READ DOCS<br>
 *__SAMPLE CODES__*<br><br>
 https://retas.dev/demo_script/viewsource.php?about=load&samplecodes<br>
 
-*__whats new?__*<br>
-+ multi param! ?home=show&param2=x&param3=x&and_so_on<br>
-+ safer method
-+ build in redirect option
-+ build in anti rightclick, ctrl+u & f12
+*__WHATS NEW?__*<br>
++ Multi Parameter! ?home=show&param2=x&param3=x&and_so_on<br>
++ Safe Method
++ Build in Redirect Option
++ Build in Anti Rightclick, ctrl+u & f12
 <br>
 
 # ABOUT THE CODE
@@ -35,8 +35,7 @@ Which is Usefull for UI/UX Sites.<br>
 Feel Free to Modify This Code v:
 
 + HOW TO HIDE?
-you know, view-source is impossible to hide! but now your dream come true! you can hide your viewsource ;)
-+ for now this script can only do some trick , but i'm sure there's something else we can do with this logic in the future.
+U KNOW, View-Source is IMPOSSIBLE to Hide! But Now UR Dream Come True!
 
 # DOCS
 
