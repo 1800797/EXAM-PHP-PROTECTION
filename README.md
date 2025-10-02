@@ -5,7 +5,7 @@ NOT FOR HUGE PROJECT, ONLY FOR PERSONAL WEBSITE!
 
 # QUICK HOW TO USE
 ├&nbsp;index.php <br>
-&nbsp;&nbsp;&nbsp;└ require "<your_OWN_directory>/viewsource_clean.php";<br>
+&nbsp;&nbsp;&nbsp;└ require "<your_own_directory>/viewsource_clean.php";<br>
   <br>
 ```
 <?php
