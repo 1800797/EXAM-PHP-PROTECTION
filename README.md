@@ -6,7 +6,7 @@ NOT FOR HUGE PROJECT, ONLY FOR PERSONAL WEBSITE!
 # QUICK HOW TO USE
 ├&nbsp;index.php <br>
 &nbsp;&nbsp;&nbsp;└ require "<your_OWN_directory>/viewsource_clean.php";<br>
-  (ANYWHERE FOLDER)<br>
+  <br>
 ```
 <?php
 require /var/www/html/anywhere/anywhere/viewsource_clean.php;
@@ -15,7 +15,7 @@ require /var/www/html/anywhere/anywhere/viewsource_clean.php;
 <br>
 
 # NEW VERSION RELEASED! VER 2.0.3 D5 , PHP 7.X
-__READ DOCS<br>
+READ DOCS<br>
 
 *__SAMPLE CODES__*<br><br>
 https://retas.dev/demo_script/viewsource.php?about=load&samplecodes<br>
@@ -52,7 +52,7 @@ MIT LICENSE
 + you can help me improve this code
 
 ## DEVELOPER
-Obviously its Me lol,<br>
+@Xmorinori,<br>
 instagram.com/darr.eel_
 
 ## CHANGELOG
