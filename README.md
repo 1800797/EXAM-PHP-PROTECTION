@@ -31,7 +31,7 @@ https://retas.dev/demo_script/viewsource.php?about=load&samplecodes<br>
 This is RAW Code, Edit it As Fits UR System Build with Basic Logic.<br>
 This Code was <b><u>Intended to Protect HTML files</u></b> Using Simple Render Tools.
 Which is Usefull for UI/UX Sites.<br>
-<b> Developer of This Code @Xmoriori , Are Still Active Developing This Code, Feel Free to Post An Issue or Request</b><br>
+<b> Developer of This Code @xmoriori , Are Still Active Developing This Code, Feel Free to Post An Issue or Request</b><br>
 Feel Free to Modify This Code v:
 
 + HOW TO HIDE?
@@ -42,7 +42,7 @@ U KNOW, View-Source is IMPOSSIBLE to Hide! But Now UR Dream Come True!
 lIVE DEMO:<br>
 https://retas.dev/demo_script/viewsource.php (no longger available)<br>
 LATEST VER (RTU) CHECK HERE :<br>
-https://github.com/Xmorinori/php_view_source_protection_devs/releases/tag/EMGrlsV1<br>
+https://github.com/xmorinori/php_view_source_protection_devs/releases/tag/EMGRLSV1<br>
 
 # TESTED BROWSER
 + ALL BROWSER INCLUDE WEB3 BROWSER
