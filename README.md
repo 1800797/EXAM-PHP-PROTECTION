@@ -49,7 +49,7 @@ https://github.com/Xmorinori/php_view_source_protection_devs/releases/tag/EMGrls
 
 # LICENSE
 MIT LICENSE
-+ you can help me improve this code
++ YOU CAN HELP ME TO IMPROVE THIS CODE
 
 ## DEVELOPER
 @Xmorinori,<br>
