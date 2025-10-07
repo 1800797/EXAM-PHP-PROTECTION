@@ -40,7 +40,7 @@ U KNOW, View-Source is IMPOSSIBLE to Hide! But Now UR Dream Come True!
 # DOCS
 
 lIVE DEMO:<br>
-https://retas.dev/demo_script/viewsource.php (no longger available)<br>
+https://retas.dev/demo_script/viewsource.php (OFFLINE)<br>
 LATEST VER (RTU) CHECK HERE :<br>
 https://github.com/xmorinori/php_view_source_protection_devs/releases/tag/EMGRLSV1<br>
 
