@@ -52,8 +52,7 @@ MIT LICENSE
 + YOU CAN HELP ME TO IMPROVE THIS CODE
 
 ## DEVELOPER
-@Xmorinori,<br>
-instagram.com/darr.eel_
+@XMORINORI
 
 ## CHANGELOG
 + Parameter Management (MP);
