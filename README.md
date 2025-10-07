@@ -64,3 +64,5 @@ MIT LICENSE
 + Adding Load Render Fixing Firefox Bug.
 + Adding Firefox Compability
 + Fixing Firefox Compability
+
+---
